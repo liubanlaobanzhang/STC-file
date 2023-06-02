@@ -75,3 +75,11 @@
 |<img src="https://img.shields.io/badge/易考-12a182" height="20"> 补充文章内容/背景|*未涉及*|
 |人物品质|表现了他的乐观和坚强。|   
 |<img src="https://img.shields.io/badge/套话-fba414" height="20"> 避免平铺直叙|使文势更有起伏，吸引读者。|
+
+## <img src="https://img.shields.io/badge/少考-grey" height="26"> 倒叙
+
+|角度|答题示例（暂无）|
+|-|-|
+|点明倒叙|—|
+|（能更好地）表现主旨|—|
+|<img src="https://img.shields.io/badge/套话-fba414" height="20"> 避免平铺直叙|—|
