@@ -1,5 +1,5 @@
 # 现代文阅读归纳
-<img src="https://img.shields.io/badge/版本-Alpha 0.2 (2023.6.3)-a" height="25"><img src="https://img.shields.io/badge/文章处于 Alpha 状态，意味着可能存在误导性文本。-orange" height="25">
+<img src="https://img.shields.io/badge/版本-Alpha 0.3 (2023.6.3)-a" height="25"><img src="https://img.shields.io/badge/文章处于 Alpha 状态，意味着可能存在误导性文本。-orange" height="25">
 
 
 
@@ -61,15 +61,17 @@
 	</tr>
 	<tr>
 	    <td rowspan="3">人物<br>描写</td>
-        <td>描写内容</td>
-        <td rowspan="3">暂无</td>
-        <td rowspan="3"></td>
+        <td>概括描写内容</td>
+        <td rowspan="3">2023 西海岸七中二模</td>
+        <td rowspan=>运用了动作描写的方法，通过“放下”“打开”“扛”“推开”一系列动词，准确、具体地描写了父亲临出门时专门为燕子留通道的整个过程，</td>
 	</tr>
     <tr>
         <td>埋伏笔/铺垫</td>
+		<td>未涉及</td>
     </tr>
     <tr>
-        <td>体现人物<br>性格/心情/品质</td>
+        <td>体现性格/心情/品质</td>
+		<td>表现了父亲对燕子回家的期待。</td>
 </table>
 
 ## <img src="https://img.shields.io/badge/易考-12a182" height="26"> <img src="https://img.shields.io/badge/必会-ff0000" height="26"> 词语赏析
