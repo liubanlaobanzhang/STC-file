@@ -1,5 +1,5 @@
 # 现代文阅读归纳
-<img src="https://img.shields.io/badge/版本-Alpha 0.2 (2023.6.3)-a" height="25"><img src="https://img.shields.io/badge/文章处于 Alpha 状态，意味着可能存在误导性文本。-orange" height="25">
+<img src="https://img.shields.io/badge/版本-Alpha 0.2.1 (2023.6.3)-a" height="25"><img src="https://img.shields.io/badge/文章处于 Alpha 状态，意味着可能存在误导性文本。-orange" height="25">
 
 
 
@@ -155,7 +155,9 @@
 
 ### <img src="https://img.shields.io/badge/易考-12a182" height="21"> 方向2：结构
 
-> 往往只有1~2个，不过 **多答不扣分**  <img src=https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png@48w_48h.webp height='25px'>
+> 需要根据分值自行判断。
+> 
+> 除非你真的什么都不会，否则不要乱答，不然**拿不了全分**……
 
 |角度|答题示例|
 |-|-|
