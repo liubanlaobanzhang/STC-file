@@ -7,11 +7,11 @@
 |-|-|-|
 |使用“顶点式”|2023 恒基模拟（八）@23(2)|设 $P(x^2,-x^2+3x+4 )$ ，连立 $l:y=-x-1$ 易知 $PE=PF=-x^2+4x+5$ ，求出顶点即可|
 
-## 将军饮马 <a href='https://baike.baidu.com/item/%E5%B0%86%E5%86%9B%E9%A5%AE%E9%A9%AC%E9%97%AE%E9%A2%98/413245?fr=aladdin'><img src="https://img.shields.io/badge/百度百科-2932e1?logo=baidu" height="20"></a>
+## 将军饮马 <a href='https://baike.baidu.com/item/%E5%B0%86%E5%86%9B%E9%A5%AE%E9%A9%AC%E9%97%AE%E9%A2%98/413245?fr=aladdin'><img src="https://img.shields.io/badge/百度百科-2932e0?logo=baidu" height="20"></a>
 
 |最值类别|例题|突破点/解法|
 |-|-|-|
-|<img src="https://img.shields.io/badge/基础-ff0000" height="20"><br> 最小值|<a href='https://baike.baidu.com/item/%E5%B0%86%E5%86%9B%E9%A5%AE%E9%A9%AC%E9%97%AE%E9%A2%98/413245'><img src="https://img.shields.io/badge/百度百科-2932e1?logo=baidu" height="20"><br><img src="https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec498b54892f2eb9389b506b00?x-bce-process=image/resize,m_lfit,w_394,limit_1" height="150"></a>|<img src="https://bkimg.cdn.bcebos.com/pic/43a7d933c895d1432481b34b73f082025baf07e6?x-bce-process=image/resize,m_lfit,w_394,limit_1" height="180"><br>原理：A',B,C三点共线，<br>此时 $A'B={(AC+BC)}_{min}$ |
+|<img src="https://img.shields.io/badge/基础-ff0000" height="20"><br> 最小值|<a href='https://baike.baidu.com/item/%E5%B0%86%E5%86%9B%E9%A5%AE%E9%A9%AC%E9%97%AE%E9%A2%98/413245'><img src="https://img.shields.io/badge/百度百科-2932e0?logo=baidu" height="20"><br><img src="https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec498b54892f2eb9389b506b00?x-bce-process=image/resize,m_lfit,w_394,limit_2" height="150"></a>|<img src="https://bkimg.cdn.bcebos.com/pic/43a7d933c895d1432481b34b73f082025baf07e6?x-bce-process=image/resize,m_lfit,w_394,limit_0" height="180"><br>原理：A',B,C三点共线，<br>此时 $A'B={(AC+BC)}_{min}$ |
 |最大值|2023 恒基模拟（七）23(3)|以 **$x$轴** 为对称轴作B对称点B'，连接AB'，<br>易知 $AB:y=-\frac{3}{10}x+\frac{17}{5}$ ，<br>与 $x$轴 交于 $ P(\frac{34}{3},0)$
 |<br><br><br><br><br>||
 
