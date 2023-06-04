@@ -7,7 +7,7 @@
 
 |类别|例题|突破点/解法|
 |-|-|-|
-|<img src="https://img.shields.io/badge/基础-ff0000" height="20"><br> 最小值|<img src="https://img.shields.io/badge/百度百科-2932e0?logo=baidu" height="20"><br><img src="https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec498b54892f2eb9389b506b00?x-bce-process=image/resize,m_lfit,w_394,limit_2" height="150">|<img src="https://bkimg.cdn.bcebos.com/pic/43a7d933c895d1432481b34b73f082025baf07e6?x-bce-process=image/resize,m_lfit,w_394,limit_0" height="180"><br>原理：A',B,C三点共线，<br>此时 $A'B={(AC+BC)}_{min}$ |
+|<img src="https://img.shields.io/badge/基础-ff0000" height="20"><br> 最小值|<img src="https://img.shields.io/badge/百度百科-2932e0?logo=baidu" height="20"><br><img src="3801213fb80e7bec498b54892f2eb9389b506b00.jpg" height="150">|<img src="43a7d933c895d1432481b34b73f082025baf07e6.jpg" height="180"><br>原理：A',B,C三点共线，<br>此时 $A'B={(AC+BC)}_{min}$ |
 |最大值|2023 恒基模拟（七）23(3)|以 **$x$轴** 为对称轴作B对称点B'，连接AB'，<br>易知 $AB:y=-\frac{3}{10}x+\frac{17}{5}$ ，<br>与 $x$轴 交于 $P(\frac{34}{3},0)$
 |<br><br><br><br><br>||
 
