@@ -1,7 +1,6 @@
 # 最值归纳
 <img src="https://img.shields.io/badge/版本-Beta 1.2 (2023.6.4)-a" height="25"> <img src="https://img.shields.io/badge/对应考题-不固定-blue" height="25"> <img src="https://img.shields.io/badge/分值-3~5分-brown" height="25">
 
-<img src=a></img><img src=a></img><img src=a></img><img src=a></img>
 
 ## 将军饮马 <a href='https://baike.baidu.com/item/%E5%B0%86%E5%86%9B%E9%A5%AE%E9%A9%AC%E9%97%AE%E9%A2%98/413245?fr=aladdin'><img src="https://img.shields.io/badge/百度百科-2932e0?logo=baidu" height="20"></a>
 
