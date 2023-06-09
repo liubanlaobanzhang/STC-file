@@ -21,6 +21,6 @@
 <br>
 
 -  [✅动点归纳](5Yqo54K5.md)
-- [✅最值归纳](5pyA5YC8.md)
+- [✅最值归纳](R-5pyA5YC8.md)
 
 </details>
