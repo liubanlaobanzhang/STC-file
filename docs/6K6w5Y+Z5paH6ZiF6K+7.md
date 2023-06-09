@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/3-部分答法前面标记[套话]，尽量都答上，但别忘了变通。-22a2c3" height="28">
 <img src="https://img.shields.io/badge/基本原则-①多写&nbsp;②概括文章内容，写文章主旨/人物品质/性格/事物观点/情感-blue" height="28"><br>
 
-<h2><img src="https://img.shields.io/badge/易考-12a182" height="26"> 概括文章内容类</h2>
+## <img src="https://img.shields.io/badge/易考-12a182" height="26"> 概括文章内容类</h2>
 
 
 按以下模板叙事：<img src="https://img.shields.io/badge/什么人-red" height="24"> <img src="https://img.shields.io/badge/干了什么事-12aa9c" height="24"> <img src="https://img.shields.io/badge/结果如何-fcc307" height="24">
@@ -174,6 +174,8 @@
 
 ## <img src="https://img.shields.io/badge/难-ff0000" height="26"> <img src="https://img.shields.io/badge/少考-grey" height="26">  某个人物的作用
 
+**注意：2020年青岛中考第19题问的”作用“并不是此处所指示的”作用“，该题需要联系全文进行回答，为一道”[概括内容类题目](#概括文章内容类)“。**
+
 <details>
 	<summary><img src=https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png@48w_48h.webp height='22px'> 老六答法</summary>
 
@@ -183,7 +185,7 @@
 
 ## <img src="https://img.shields.io/badge/少考-grey" height="26"> 引用（名句等）
 
-> **联系主旨**，描绘一下 **其抒发的情感**
+> **联系主旨**，描绘一下 **其抒发的情感** 
 
 ## <img src="https://img.shields.io/badge/少考-grey" height="26"> 欲扬先抑
 
